@@ -1,0 +1,44 @@
+Organizar modal;
+botão de fechar;
+lugar do carregamento (tentar fazer algo como jogo, onde a tela fica mais escura, o carregamento aparece, depois o modal);
+score final;
+feedback nas repostas;
+
+backend:
+
+modelar a tabela das questões;
+modelar a tabela dos usuários;
+modelar a tabela de usuários aleatórios para visitantes;
+
+implementar endpoint das questões;
+implementar página para gerenciar conteúdo;
+implementar autenticação;
+
+Quiz{tags, difficulty, name, answers, question, id, score}
+
+Comments
+
+User auth
+
+Ranking
+
+Time tracking
+
+Gamification elements
+
+Avatar
+
+‘convidado’ style random name and avatar
+
+Você errou! Resposta: X
+(under tab → Gabarito comentado; Comentários)
+
+Opção de usar com tempo ou sem tempo
+
+Documentar quiz;
+Começar backend em Java para o quis (e documentar);
+ 
+
+
+
+
